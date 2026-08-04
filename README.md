@@ -3,7 +3,7 @@
 A streamlined, user-centric payment gateway and checkout process prototype for a major e-commerce brand. This project focuses on reducing user friction during the transaction experience and establishing a clean, modern visual hierarchy.
 
 ## 🎨 Interactive Prototype
-**[🔗 Click here to view the interactive Figma prototype](INSERT_YOUR_FIGMA_LINK_HERE)**
+**[🔗 Click here to view the interactive Figma prototype]([INSERT_YOUR_FIGMA_LINK_HERE](https://github.com/poornima224/Dominos-Payment-Flow-UI/tree/main/Dominos-Payment-Designs))**
 
 ## 🛠️ Design Toolkit
 * **Figma:** High-fidelity UI design, interactive prototyping, and component libraries.
